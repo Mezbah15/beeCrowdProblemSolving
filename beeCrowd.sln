@@ -7,35 +7,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1012-areaCalculation", "101
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1013-greatestValue", "1013-greatestValue\1013-greatestValue.csproj", "{D16EA662-2CDF-48F8-A7D7-3EC0B65EAFA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1014-distanceFuelCalculation", "1014-distanceFuelCalculation\1014-distanceFuelCalculation.csproj", "{9023C71F-F1AF-4963-9300-3EAC6A50E546}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1014-distanceFuelCalculation", "1014-distanceFuelCalculation\1014-distanceFuelCalculation.csproj", "{9023C71F-F1AF-4963-9300-3EAC6A50E546}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1015-twoPointsDistance", "fourAxisDistance\1015-twoPointsDistance.csproj", "{B7D99772-C600-4CA1-AF51-264874EFF948}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1002-areaOfCircle", "1002-areaCalculation\1002-areaOfCircle.csproj", "{FE218612-452F-4D01-B6A1-76CFAB0B8BC3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1002-areaOfCircle", "1002-areaCalculation\1002-areaOfCircle.csproj", "{FE218612-452F-4D01-B6A1-76CFAB0B8BC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1004-simpleProduct", "1004-simpleProduct\1004-simpleProduct.csproj", "{ECFFE924-C0EA-4DAB-8168-936D1304560D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1004-simpleProduct", "1004-simpleProduct\1004-simpleProduct.csproj", "{ECFFE924-C0EA-4DAB-8168-936D1304560D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1005-average1", "1005-average1\1005-average1.csproj", "{CF236EAA-A2DE-41C7-BB49-314236950831}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1005-average1", "1005-average1\1005-average1.csproj", "{CF236EAA-A2DE-41C7-BB49-314236950831}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1006-average2", "1006-average2\1006-average2.csproj", "{B2305A41-30BB-4C3C-8460-D53F8D5B97BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1006-average2", "1006-average2\1006-average2.csproj", "{B2305A41-30BB-4C3C-8460-D53F8D5B97BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1007-difference", "1007-difference\1007-difference.csproj", "{3ECB1D63-2D13-4800-828B-6AAA62F3B425}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1007-difference", "1007-difference\1007-difference.csproj", "{3ECB1D63-2D13-4800-828B-6AAA62F3B425}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1008-salary", "1008-salary\1008-salary.csproj", "{427E768A-B659-4DB3-BE4B-66ECA2BDEC3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1008-salary", "1008-salary\1008-salary.csproj", "{427E768A-B659-4DB3-BE4B-66ECA2BDEC3C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1009-salaryWithBonus", "1009-salaryWithBonus\1009-salaryWithBonus.csproj", "{8781A98F-930D-478C-9397-1C7552AD2B63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1009-salaryWithBonus", "1009-salaryWithBonus\1009-salaryWithBonus.csproj", "{8781A98F-930D-478C-9397-1C7552AD2B63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1010-simpleCalculate", "1010-simpleCalculate\1010-simpleCalculate.csproj", "{2624BC2A-72B2-4DFB-B787-D1808175A917}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1010-simpleCalculate", "1010-simpleCalculate\1010-simpleCalculate.csproj", "{2624BC2A-72B2-4DFB-B787-D1808175A917}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1011-sphere", "1011-sphere\1011-sphere.csproj", "{BC7B8A3F-2772-4C4A-AF4C-15A58E3B0FD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1011-sphere", "1011-sphere\1011-sphere.csproj", "{BC7B8A3F-2772-4C4A-AF4C-15A58E3B0FD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1003-simpleSum", "1003-simpleSum\1003-simpleSum.csproj", "{97B64539-5437-492C-9F36-A2A91B801FD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1003-simpleSum", "1003-simpleSum\1003-simpleSum.csproj", "{97B64539-5437-492C-9F36-A2A91B801FD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1001-extremelyBasic", "1001-extremelyBasic\1001-extremelyBasic.csproj", "{E56C406A-6584-4A71-B03B-D03CBA53E9FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1001-extremelyBasic", "1001-extremelyBasic\1001-extremelyBasic.csproj", "{E56C406A-6584-4A71-B03B-D03CBA53E9FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1016-distance", "1016-distance\1016-distance.csproj", "{FAAC3EAF-A104-4F6F-AE78-A8FA1BAF4507}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1016-distance", "1016-distance\1016-distance.csproj", "{FAAC3EAF-A104-4F6F-AE78-A8FA1BAF4507}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1017-fuelSpent", "1017-fuelSpent\1017-fuelSpent.csproj", "{0F43E3AF-9A60-4B26-9D78-38F7EC4BEAEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1017-fuelSpent", "1017-fuelSpent\1017-fuelSpent.csproj", "{0F43E3AF-9A60-4B26-9D78-38F7EC4BEAEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,10 +53,6 @@ Global
 		{9023C71F-F1AF-4963-9300-3EAC6A50E546}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9023C71F-F1AF-4963-9300-3EAC6A50E546}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9023C71F-F1AF-4963-9300-3EAC6A50E546}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B7D99772-C600-4CA1-AF51-264874EFF948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B7D99772-C600-4CA1-AF51-264874EFF948}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B7D99772-C600-4CA1-AF51-264874EFF948}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B7D99772-C600-4CA1-AF51-264874EFF948}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FE218612-452F-4D01-B6A1-76CFAB0B8BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FE218612-452F-4D01-B6A1-76CFAB0B8BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FE218612-452F-4D01-B6A1-76CFAB0B8BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
